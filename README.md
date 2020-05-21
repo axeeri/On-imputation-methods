@@ -1,2 +1,2 @@
 # On-imputation-methods
-On imputation methods in regression analysis; using MICE 
+# Estimating a regression analysis from a data matrix with data missing MCAR; using MICE 
